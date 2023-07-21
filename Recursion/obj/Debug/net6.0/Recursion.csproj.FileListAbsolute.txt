@@ -1,0 +1,15 @@
+D:\MyGit Projects\GrokkingAlgorithms\Recursion\bin\Debug\net6.0\Recursion.exe
+D:\MyGit Projects\GrokkingAlgorithms\Recursion\bin\Debug\net6.0\Recursion.deps.json
+D:\MyGit Projects\GrokkingAlgorithms\Recursion\bin\Debug\net6.0\Recursion.runtimeconfig.json
+D:\MyGit Projects\GrokkingAlgorithms\Recursion\bin\Debug\net6.0\Recursion.dll
+D:\MyGit Projects\GrokkingAlgorithms\Recursion\bin\Debug\net6.0\Recursion.pdb
+D:\MyGit Projects\GrokkingAlgorithms\Recursion\obj\Debug\net6.0\Recursion.csproj.AssemblyReference.cache
+D:\MyGit Projects\GrokkingAlgorithms\Recursion\obj\Debug\net6.0\Recursion.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyGit Projects\GrokkingAlgorithms\Recursion\obj\Debug\net6.0\Recursion.AssemblyInfoInputs.cache
+D:\MyGit Projects\GrokkingAlgorithms\Recursion\obj\Debug\net6.0\Recursion.AssemblyInfo.cs
+D:\MyGit Projects\GrokkingAlgorithms\Recursion\obj\Debug\net6.0\Recursion.csproj.CoreCompileInputs.cache
+D:\MyGit Projects\GrokkingAlgorithms\Recursion\obj\Debug\net6.0\Recursion.dll
+D:\MyGit Projects\GrokkingAlgorithms\Recursion\obj\Debug\net6.0\refint\Recursion.dll
+D:\MyGit Projects\GrokkingAlgorithms\Recursion\obj\Debug\net6.0\Recursion.pdb
+D:\MyGit Projects\GrokkingAlgorithms\Recursion\obj\Debug\net6.0\Recursion.genruntimeconfig.cache
+D:\MyGit Projects\GrokkingAlgorithms\Recursion\obj\Debug\net6.0\ref\Recursion.dll

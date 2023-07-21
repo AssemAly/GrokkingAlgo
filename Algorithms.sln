@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32421.90
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{88803A40-5C2D-4012-871D-4796F3FF7A0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{88803A40-5C2D-4012-871D-4796F3FF7A0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectionSort", "SelectionSort\SelectionSort.csproj", "{8706059D-9EE8-4C94-B0FF-317AA69BD16A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelectionSort", "SelectionSort\SelectionSort.csproj", "{8706059D-9EE8-4C94-B0FF-317AA69BD16A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion", "Recursion\Recursion.csproj", "{7B0B7F76-5017-4920-AE07-5C05D9E3248B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{8706059D-9EE8-4C94-B0FF-317AA69BD16A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8706059D-9EE8-4C94-B0FF-317AA69BD16A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8706059D-9EE8-4C94-B0FF-317AA69BD16A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B0B7F76-5017-4920-AE07-5C05D9E3248B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B0B7F76-5017-4920-AE07-5C05D9E3248B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B0B7F76-5017-4920-AE07-5C05D9E3248B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B0B7F76-5017-4920-AE07-5C05D9E3248B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
